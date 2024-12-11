@@ -53,7 +53,7 @@ section {
         position: relative;
         max-width: 1400px;
         height: 765px;
-        background-image: url(/resourses/title_photo.png);
+        background-image: url(./resourses/title_photo.png);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;  
